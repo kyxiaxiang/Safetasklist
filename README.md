@@ -64,13 +64,13 @@ More EDRs will be added in future versions, stay tuned.
 
 
 
-![](png\CS-01.png)
+![](https://github.com/kyxiaxiang/Safetasklist/blob/main/png/CS-01.png?raw=true)
 
-![](png\CS-02.png)
+![](https://github.com/kyxiaxiang/Safetasklist/blob/main/png/CS-02.png?raw=true)
 
-![](png\S1-01.png)
+![](https://github.com/kyxiaxiang/Safetasklist/blob/main/png/S1-01.png?raw=true)
 
-![](png\S1-02.png)
+![](https://github.com/kyxiaxiang/Safetasklist/blob/main/png/S1-02.png?raw=true)
 
 在演示中，SentinelOne开启了完整的激进模式，几乎所有的进程都被监控。因此，可以看到推荐的OPSEC进程列表为空。但红队操作员仍然可以观察到，系统中存在三个可以使用的进程。然而，在加载网络通讯模块时，操作员需要格外小心，以避免被EDR监控到。
 
